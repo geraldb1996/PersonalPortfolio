@@ -10,6 +10,11 @@ body{
     width: 300px;
 }
 
+.carrouselImg{
+    height: 640;
+    width: 425;
+}
+
 .contenido{
     background-color: white;
 }
