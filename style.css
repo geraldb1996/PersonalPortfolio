@@ -13,6 +13,7 @@ body{
 .carrouselImg{
     height: 640;
     width: 425;
+    filter: brightness(50%);
 }
 
 .contenido{
